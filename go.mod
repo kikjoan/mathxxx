@@ -1,3 +1,3 @@
-module mathxxx
+module github.com/kikjoan/mathxxx
 
 go 1.21.4
